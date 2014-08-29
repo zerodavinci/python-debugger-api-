@@ -14,7 +14,9 @@ linux debugger api  wriiten by python
 
 使用說明：
 ./injectso.py [pid] ./hitcon.so
+
 ./hook.py [pid]
+
 即可攔截目標function
 
 技術手冊：
